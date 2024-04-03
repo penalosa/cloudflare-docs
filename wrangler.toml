@@ -2,3 +2,6 @@ name = "cloudflare-docs-config"
 pages_build_output_dir = "./public"
 compatibility_date = "2022-09-27"
 
+[[kv_namespaces]]
+binding = "API_DOCS_KV"
+id = "2ebaa570f2014f768379db25c5bb8dda"
